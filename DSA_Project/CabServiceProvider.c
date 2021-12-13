@@ -12,8 +12,6 @@
 
 // void userlogin(){
 
-
-
 // }
 
 void creatuser() {
